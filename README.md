@@ -7,10 +7,35 @@ tugas mata kuliah PBO. Dimodifikasi dari https://code-projects.org/todo-list-mob
 - User dapat menghapus, mengupdate, dan menambahkan task ke dalam aplikasi
 - Selain itu, aplikasi ini memiliki search query yang berfungsi untuk mencari task yang ada 
 
-Anggota Kelompok 5 (2IA01):
+## Anggota Kelompok 5 (2IA01):
 
   - Arief Taufik Rahman
   - Muhammad Rafli
   - Muhammad Wildan Firdausi
   - Rachmat
   - Rizky Bagaskara
+
+## Screenshot Aplikasi 
+### **Splash Screen** 
+![Splash Screen](https://github.com/rzkybagaskara/ToDoApp-Tubes-PBO/blob/main/ScreenShots/SplashScreen.png?raw=true)
+
+### **Home Screen** 
+![Home Screen](https://github.com/rzkybagaskara/ToDoApp-Tubes-PBO/blob/main/ScreenShots/HomeScreen.png?raw=true)
+
+### **Calendar**
+![Calendar](https://github.com/rzkybagaskara/ToDoApp-Tubes-PBO/blob/main/ScreenShots/Calendar.png?raw=true)
+
+### **Add Task**
+![Add Task](https://github.com/rzkybagaskara/ToDoApp-Tubes-PBO/blob/main/ScreenShots/AddTask.png?raw=true)
+
+### **Task Option**
+![Option](https://github.com/rzkybagaskara/ToDoApp-Tubes-PBO/blob/main/ScreenShots/Option.png?raw=true)
+
+### **Complete Task**
+![Complete](https://github.com/rzkybagaskara/ToDoApp-Tubes-PBO/blob/main/ScreenShots/CompleteTask.png?raw=true)
+
+### **Search Query**
+![Search](https://github.com/rzkybagaskara/ToDoApp-Tubes-PBO/blob/main/ScreenShots/SearchQuery.png?raw=true)
+
+### **Task Reminder**
+![Reminder](https://github.com/rzkybagaskara/ToDoApp-Tubes-PBO/blob/main/ScreenShots/Reminder.png?raw=true)
