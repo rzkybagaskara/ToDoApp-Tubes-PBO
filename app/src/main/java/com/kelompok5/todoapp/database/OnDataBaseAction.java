@@ -26,6 +26,7 @@ public interface OnDataBaseAction {
     @Query("SELECT * FROM Task WHERE taskId = :taskId")
     Task selectDataFromAnId(int taskId);
 
+    //Search query
     @Query("SELECT * FROM Task WHERE LOWER(taskTitle) LIKE LOWER(:search)")
     List<Task> getTaskListSearch(String search);
 
