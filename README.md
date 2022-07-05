@@ -22,6 +22,7 @@ tugas mata kuliah PBO. Dimodifikasi dari https://code-projects.org/todo-list-mob
 
 ## Installation
   - Clone the repo and `cd` into it
+  - Open Android Studio and run the program
   - Wait until Gradle automatically downloaded the prerequisities
 
 ## Screenshot Aplikasi 
