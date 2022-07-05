@@ -10,7 +10,7 @@ import java.util.List;
 
 @Dao
 public interface OnDataBaseAction {
-
+    //Mengambil list seluruh tasks yang ada
     @Query("SELECT * FROM Task")
     List<Task> getAllTasksList();
 
@@ -28,6 +28,7 @@ public interface OnDataBaseAction {
 
     //Search query
     @Query("SELECT * FROM Task WHERE LOWER(taskTitle) LIKE LOWER(:search)")
+    //Simpan ke dalam fungsi  getTaskListSearch dengan parameter search yang bertipe data String
     List<Task> getTaskListSearch(String search);
 
     @Query("UPDATE Task SET taskTitle = :taskTitle, taskDescription = :taskDescription, date = :taskDate, " +
