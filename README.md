@@ -15,6 +15,14 @@ tugas mata kuliah PBO. Dimodifikasi dari https://code-projects.org/todo-list-mob
   - Rachmat
   - Rizky Bagaskara
 
+## Requirements
+  - Minimum SDK 21 (Android 5.0 Device)
+  - Target SDK 29 (Android 10 Device)
+
+## Installation
+  - Clone the repo and `cd` into it
+  - Wait until Gradle automatically downloaded the prerequisities
+
 ## Screenshot Aplikasi 
 ### **Splash Screen** 
 ![Splash Screen](https://github.com/rzkybagaskara/ToDoApp-Tubes-PBO/blob/main/ScreenShots/SplashScreen.png?raw=true)
