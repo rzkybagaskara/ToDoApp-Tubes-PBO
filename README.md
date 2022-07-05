@@ -18,6 +18,7 @@ tugas mata kuliah PBO. Dimodifikasi dari https://code-projects.org/todo-list-mob
 ## Requirements
   - Minimum SDK 21 (Android 5.0 Device)
   - Target SDK 29 (Android 10 Device)
+  - Android IDE (Example: Intellij IDEA, Android Studio)
 
 ## Installation
   - Clone the repo and `cd` into it
